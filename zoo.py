@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import Orange
 import pickle
 import numpy as np
 
